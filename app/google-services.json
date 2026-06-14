@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973439032408",
+    "project_id": "communitysafetyalertapp",
+    "storage_bucket": "communitysafetyalertapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973439032408:android:128ce6c21162b4ee2bfe2d",
+        "android_client_info": {
+          "package_name": "com.example.a221003_ng_nelson_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NqJo2LPEHaKJX-g90joVJTGm-p3Wszc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
